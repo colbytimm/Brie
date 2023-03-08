@@ -8,5 +8,5 @@ Similar to gruyere, Brie wraps `lsof -i -P -n -sTCP:LISTEN` to list all the vari
 ## Requirements to build:
 dotnet 6.0
 
-## Tested on
+## Tested on:
 Currently only tested on macOS 13.2.1 M1
